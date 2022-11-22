@@ -2,8 +2,8 @@
 name = "flat_map"
 version = "0.1.0"
 edition = "2021"
+description = "A Rust implementation or flat_map"
 authors = ["chrisnp"]
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "MIT"
 
 [dependencies]
